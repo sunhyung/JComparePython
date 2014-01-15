@@ -1,7 +1,7 @@
 '''
 Created on Jan 14, 2014
 
-@author: hikari1224
+@author: Sunhyung(Jason)
 '''
 
 def sortCompareResult(a, b):
